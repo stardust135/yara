@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_44" data-name="Group 44" transform="translate(-106 -884)">
+    <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(106 884)" fill="#aeb8bf" stroke="#aeb8bf" stroke-width="1">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+    <g id="Group_42" data-name="Group 42" transform="translate(-1978.96 -5644.96)">
+      <g id="Ellipse_24" data-name="Ellipse 24" transform="translate(2092.96 6536.96)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-width="1">
+        <circle cx="8.21" cy="8.21" r="8.21" stroke="none"/>
+        <circle cx="8.21" cy="8.21" r="7.71" fill="none"/>
+      </g>
+      <path id="Path_1" data-name="Path 1" d="M8.2,13.182a4.1,4.1,0,0,1-3.148,1.426,4.261,4.261,0,0,1-3.236-1.53" transform="translate(2095.902 6534.206)" fill="none" stroke="#aeb8bf" stroke-linecap="round" stroke-width="1"/>
+      <g id="Group_41" data-name="Group 41" transform="translate(2097.462 6542.477)">
+        <g id="Ellipse_25" data-name="Ellipse 25" fill="#aeb8bf" stroke="#fff" stroke-linecap="round" stroke-width="0.5">
+          <circle cx="1.589" cy="1.589" r="1.589" stroke="none"/>
+          <circle cx="1.589" cy="1.589" r="1.339" fill="none"/>
+        </g>
+        <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(4.237)" fill="#aeb8bf" stroke="#fff" stroke-linecap="round" stroke-width="0.5">
+          <circle cx="1.589" cy="1.589" r="1.589" stroke="none"/>
+          <circle cx="1.589" cy="1.589" r="1.339" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

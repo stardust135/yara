@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="folder" transform="translate(-327 -130)">
+    <g id="Ellipse_25" data-name="Ellipse 25" transform="translate(327 130)" fill="#fff" stroke="#707070" stroke-width="1.5">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="29.25" fill="none"/>
+    </g>
+    <g id="folder-2" transform="translate(-88.589 -45.589)">
+      <path id="Vector" d="M29.316,13.192v8.795c0,5.863-1.466,7.329-7.329,7.329H7.329C1.466,29.316,0,27.85,0,21.987V7.329C0,1.466,1.466,0,7.329,0h2.2c2.2,0,2.682.645,3.518,1.759l2.2,2.932a2.323,2.323,0,0,0,2.345,1.173h4.4C27.85,5.863,29.316,7.329,29.316,13.192Z" transform="translate(430.932 190.932)" fill="none" stroke="#707070" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H13.192q4.4,0,4.4,4.4V6.42" transform="translate(439.726 190.932)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H35.179V35.179H0Z" transform="translate(463.179 223.179) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

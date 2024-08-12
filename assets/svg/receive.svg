@@ -1,0 +1,11 @@
+<svg id="receive-square" xmlns="http://www.w3.org/2000/svg" width="25.599" height="25.599" viewBox="0 0 25.599 25.599">
+  <path id="Vector" d="M7.466,21.332h6.4c5.333,0,7.466-2.133,7.466-7.466v-6.4C21.332,2.133,19.2,0,13.866,0h-6.4C2.133,0,0,2.133,0,7.466v6.4C0,19.2,2.133,21.332,7.466,21.332Z" transform="translate(2.133 2.133)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <g id="Group" transform="translate(6.4 6.944)">
+    <g id="Group-2" data-name="Group" transform="translate(3.2)">
+      <path id="Vector-2" data-name="Vector" d="M0,0,3.2,3.2,6.4,0" transform="translate(0 5.333)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,8.533V0" transform="translate(3.2)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <path id="Vector-4" data-name="Vector" d="M0,0A20.211,20.211,0,0,0,12.8,0" transform="translate(0 10.666)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Vector-5" data-name="Vector" d="M0,0H25.6V25.6H0Z" fill="none" opacity="0"/>
+</svg>

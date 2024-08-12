@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_45" data-name="Group 45" transform="translate(-148 -884)">
+    <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(148 884)" fill="#aeb8bf" stroke="#aeb8bf" stroke-width="1">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+    <g id="Group_40" data-name="Group 40" transform="translate(-12.08 72.923)">
+      <path id="Vector" d="M.518,13.839a1.764,1.764,0,0,0,2.5,0L13.839,3.016a1.766,1.766,0,1,0-2.5-2.5L.518,11.341A1.764,1.764,0,0,0,.518,13.839Z" transform="translate(168.536 820.68)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-2" data-name="Vector" d="M1.249.366,2.5,0,2.131,1.249,2.5,2.5,1.249,2.131,0,2.5.366,1.249,0,0Z" transform="translate(171.968 819.117)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-3" data-name="Vector" d="M1.249.366,2.5,0,2.131,1.249,2.5,2.5,1.249,2.131,0,2.5.366,1.249,0,0Z" transform="translate(168.638 824.112)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-4" data-name="Vector" d="M1.249.366,2.5,0,2.131,1.249,2.5,2.5,1.249,2.131,0,2.5.366,1.249,0,0Z" transform="translate(181.126 828.275)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
